@@ -5,7 +5,7 @@ public class Test {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Testing.. checkin.... Git.... ex");
+		System.out.println("Testing.. checkin.... Git.... change");
 	}
 
 }
